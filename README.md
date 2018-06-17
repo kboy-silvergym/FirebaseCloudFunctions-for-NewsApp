@@ -1,6 +1,6 @@
 This is my Firebase Functions Smaples.
 
-The Firebase Functions is useful for Mobile Developer like me because it's easy to develop backend apps.
+The Firebase Functions is useful for mobile developer like me because it's easy to develop backend apps.
 
 If you wanted to do something regularly schedules, use the AppEngine. Its PubSub Cron feature is easy to implement.
 reference -> https://developers-jp.googleblog.com/2017/04/how-to-schedule-cron-jobs-with-cloud.html
@@ -11,7 +11,7 @@ Written description of this repository below.
 
 ## Fetch Youtube Videos
 
-You can fetch Youtube Video's infomation without useing OAuth2.
+You can fetch Youtube video's infomation without using OAuth2.
 All you need is just to register Google APIs.
 
 In `functions/youtube.js` you can fetch the latest video on your favarite Youtube channel if you get channelId of that, and can put it into firebase realtime database.
