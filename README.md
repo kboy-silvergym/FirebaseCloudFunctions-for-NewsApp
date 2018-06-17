@@ -26,4 +26,4 @@ In `functions/column.js` you can fetch articles via RSS and put it into Firebase
 
 This is perfectly referenced from this article ( https://developers-jp.googleblog.com/2017/04/how-to-schedule-cron-jobs-with-cloud.html )
 
-You should just edit `appengine/cron.yaml`. It's way too Easy.
+You should just edit `appengine/cron.yaml`. It's way too easy!
