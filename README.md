@@ -1,4 +1,4 @@
-This is my Firebase Functions Smaples.
+This is my Firebase Functions samples.
 
 The Firebase Functions is useful for mobile developer like me because it's easy to develop backend apps.
 
