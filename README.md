@@ -14,11 +14,11 @@ The description of this repository is written below.
 You can fetch Youtube video's infomation without using OAuth2.
 All you need is just to register Google APIs.
 
-In `functions/youtube.js` you can fetch the latest video on your favorite Youtube channel if you get channelId of that, and can put it into Firebase realtime database.
+In [functions/youtube.js](https://github.com/kboy-silvergym/FirebaseFunctionsSample/blob/master/functions/youtube.js) you can fetch the latest video on your favorite Youtube channel if you get channelId of that, and can put it into Firebase realtime database.
 
 ### 📚 Fetch Articles via RSS
 
-In `functions/column.js` you can fetch articles via RSS and put it into Firebase realtime database.
+In [functions/column.js](https://github.com/kboy-silvergym/FirebaseFunctionsSample/blob/master/functions/column.js) you can fetch articles via RSS and put it into Firebase realtime database.
 
 # AppEngine
 
@@ -26,4 +26,4 @@ In `functions/column.js` you can fetch articles via RSS and put it into Firebase
 
 This is perfectly referenced from this article ( https://developers-jp.googleblog.com/2017/04/how-to-schedule-cron-jobs-with-cloud.html )
 
-You should just edit `appengine/cron.yaml`. It's way too easy!
+You should just edit [appengine/cron.yaml](https://github.com/kboy-silvergym/FirebaseFunctionsSample/blob/master/appengine/cron.yaml).
