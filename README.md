@@ -9,7 +9,11 @@ The description of this repository is written below.
 
 # Firebase Cloud Functions
 
-### 📹 Fetch Youtube Videos
+<img src="https://cdn-images-1.medium.com/max/684/1*P96fpzo_Tr0PgJwZjEjHxw.png" width=300>
+
+### Fetch Youtube Videos
+
+<img src="http://icons.iconarchive.com/icons/dakirby309/simply-styled/256/YouTube-icon.png" width=50>
 
 Fetching a new Youtube video and creating list categorized by "category".
 
@@ -20,7 +24,9 @@ All you need is just to register Google APIs.
 
 In [functions/youtube.js](https://github.com/kboy-silvergym/FirebaseFunctionsSample/blob/master/functions/youtube.js) you can fetch the latest video on your favorite Youtube channel if you get channelId of that, and can put it into Firebase realtime database.
 
-### 📚 Fetch Articles via RSS
+### Fetch Articles via RSS
+
+<img src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_rss-512.png" width=50>
 
 Fetching a new blog article and creating list orderd by newest.
 
@@ -30,7 +36,11 @@ In [functions/column.js](https://github.com/kboy-silvergym/FirebaseFunctionsSamp
 
 # AppEngine
 
-### ⏰ PubSub Cron
+<img src="http://iinegoods.com/wp-content/uploads/2017/07/gae.png" width=300>
+
+### PubSub Cron
+
+<img src="https://cdn.filepicker.io/api/file/Z66JAyLSXW9liZiZVqgI" width=50>
 
 Triggerd every morning.
 
