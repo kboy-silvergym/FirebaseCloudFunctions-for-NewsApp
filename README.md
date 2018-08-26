@@ -1,6 +1,6 @@
 Firebase Cloud Functions and App Engines codes for News app.
 
-App Engine's PubSub Cron is triggerd every morining and cloud functions fetch a new blog artilcles and Youtube videos.
+App Engine's PubSub Cron is triggerd every morining and cloud functions fetch new blog artilcles and new Youtube videos.
 
 # Firebase Cloud Functions
 
