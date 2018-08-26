@@ -1,11 +1,6 @@
-This is a Firebase Cloud Functions samples.
+Firebase Cloud Functions and App Engines codes for News app.
 
-Firebase Cloud Functions is useful for mobile developer like me because it's easy to develop backend apps.
-
-If you wanted to do something regularly schedules, use the AppEngine. Its PubSub Cron feature is easy to implement.
-reference -> https://developers-jp.googleblog.com/2017/04/how-to-schedule-cron-jobs-with-cloud.html
-
-The description of this repository is written below.
+App Engine's PubSub Cron is triggerd every morining and cloud functions fetch a new blog artilcles and Youtube videos.
 
 # Firebase Cloud Functions
 
